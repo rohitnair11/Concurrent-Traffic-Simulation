@@ -1,8 +1,8 @@
 # Concurrent Traffic Simulation
 
-<!-- <img src="data/traffic_simulation.gif"/> -->
+<img src="demo.gif"/>
 
-This is an implementation of a Concurrent Traffic Simulation in C++. A thread-safe communication protocol between vehicles and intersections to complete the simulation was built using concepts of Concurrency. Each intersection in the map is equipped with a traffic light.
+This is an implementation of a Concurrent Traffic Simulation in C++. A thread-safe communication protocol between vehicles and intersections to complete the simulation was built using concepts of Concurrency. Each intersection in the map is equipped with a traffic light. Traffic lights can either be red or green at a given time.
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
